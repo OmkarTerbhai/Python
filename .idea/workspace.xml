@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d9db46f-7182-46ba-bf1f-dfb2bf7f1f23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson01/Program1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson02/Program1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson02/Program2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson02/Program3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +17,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/lesson02" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1,
@@ -74,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1782041794204</updated>
       <workItem from="1782041795101" duration="2979000" />
-      <workItem from="1782062656843" duration="984000" />
+      <workItem from="1782062656843" duration="1438000" />
     </task>
     <servers />
   </component>
