@@ -18,7 +18,4 @@ multi_line_str = """hello there buddy
                     how are things going?
                 all good?""";
 
-print(multi_line_str);
-print(multi_line_str.upper());
-print(multi_line_str.replace("good", "ok"));
-print(multi_line_str.title());
+print(multi_line_str[0:5]);
